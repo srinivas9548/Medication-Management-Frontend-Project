@@ -3,8 +3,8 @@
 This is the **Frontend** for the **Medication Management System**, a responsive React-based interface designed for patients and caretakers to manage and track medication schedules efficiently.
 
 ## Live Demo
-Fronend (API): [https://srinivas-medication-management-fron.vercel.app]
-Backend (API): [https://srinivas-medication-management-api.onrender.com]
+- Fronend (API): [https://srinivas-medication-management-fron.vercel.app]
+- Backend (API): [https://srinivas-medication-management-api.onrender.com]
 
 ## Features
 
